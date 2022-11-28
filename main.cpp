@@ -6,7 +6,7 @@ int main() {
     cin >> n;
         cout << a << endl << b << endl;
         for (int i=0; 1<=n; i++) {
-           c=a+b;;
+           c=a+b;
            a=b;
            b=c;
            cout << c << endl;
